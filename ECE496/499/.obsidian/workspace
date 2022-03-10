@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7d6edbfc931622ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe96cf0bf6a43485",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a233bb647e0941d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfd28e675b90f57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea04d3dff6d792df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "412210394afeea6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed8b39bb84b6929",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe59c95e6416a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84adbd0271385b34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe96cf0bf6a43485",
+  "lastOpenFiles": [
+    "Mixture Of Experts/Papers/V-MoE.md",
+    "Mixture Of Experts/Papers/Twenty years of mixture of experts.md",
+    "Mixture Of Experts/Papers/MoE - Shazeer.md",
+    "Mixture Of Experts/Papers/Switch Transformers - Fedus.md",
+    "Mixture Of Experts/Papers/GShard - Lepikhin.md",
+    "Mixture Of Experts/Papers/Adaptive mixtures of local experts.md",
+    "Conditional Computation.md",
+    "Transformers/T2T-ViT - Yuan.md",
+    "Transformers/All Tokens Matter - Jiang.md",
+    "Transformers/DeiT - Touvron.md"
+  ]
+}
